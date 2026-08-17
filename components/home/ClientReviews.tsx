@@ -256,7 +256,7 @@ export default function ClientReviews() {
           <div className="mt-8 text-center">
 
             <Link
-              href="YOUR_UPWORK_PROFILE_URL"
+              href="https://upwork.com/freelancers/pratikdesai91"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center font-semibold text-blue-600 transition hover:text-blue-700"
