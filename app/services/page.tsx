@@ -47,7 +47,7 @@ const services = [
       "Bulk image automation",
       "Custom automation solutions",
     ],
-    href: "/services/automation",
+    href: "/services/ai-automation",
   },
   {
     icon: Globe,
@@ -55,10 +55,10 @@ const services = [
     description:
       "Reliable WordPress support for websites, content management, product data and ongoing improvements.",
     features: [
-      "WordPress development",
       "Website management",
       "Product uploads",
       "Content management",
+      "Ongoing WordPress support",
     ],
     href: "/services/wordpress",
   },
