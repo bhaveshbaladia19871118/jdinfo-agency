@@ -67,7 +67,7 @@ export default function Footer() {
 
               {/* LinkedIn */}
               <a
-                href="YOUR_LINKEDIN_URL"
+                href="https://www.linkedin.com/company/103660702"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="JD Info on LinkedIn"
@@ -78,7 +78,7 @@ export default function Footer() {
 
               {/* Facebook */}
               <a
-                href="YOUR_FACEBOOK_URL"
+                href="https://www.facebook.com/people/JD-Infra/61560279952175/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="JD Info on Facebook"
@@ -100,7 +100,7 @@ export default function Footer() {
 
               {/* Upwork */}
               <a
-                href="YOUR_UPWORK_URL"
+                href="https://upwork.com/freelancers/pratikdesai91"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="JD Info on Upwork"
